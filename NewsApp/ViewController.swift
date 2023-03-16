@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  NewsApp
 //
-//  Created by Tayyip on 16.03.2023.
+//  Created by Ekrem on 16.03.2023.
 //
 
 import UIKit
